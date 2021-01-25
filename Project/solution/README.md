@@ -4,12 +4,12 @@
 
 Example:
 ```
-...
+
 ```
 
 # Template
 ```C++
-...
+
 ```
 
 # Source:
